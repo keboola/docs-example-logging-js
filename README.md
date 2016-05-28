@@ -1,2 +1,2 @@
-# docs-example-logging-js
-Example repository for Documentation of Docker logging
+# GELF Logging example JS
+Example repository for Documentation of [Docker logging](https://developers.keboola.com/common-interface/logging/#javascript)
